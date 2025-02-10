@@ -7,7 +7,7 @@ Nelson
 I developed Shopage (shopage.com), a scalable multi-tenant eCommerce SaaS platform using Python and Django, building it from the ground up since 2015 as a self-taught engineer. As the business scaled during the pandemic, I transitioned into a technical leadership role, leading the development team, overseeing KPIs, code reviews, and system upgrades. I redesigned the system architecture, APIs, and microservices to handle traffic spikes, ensuring stability while leading crisis resolution efforts for critical bugs and recovery.
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me at [chiwaiyauu@gmail.com](mailto:chiwaiyauu@gmail.com)
+* ✉️  You can contact me at [chiwaiyauu@gmail.com](mailto:chiwaiyau@gmail.com)
 * 🧠  I'm learning ReactJS, Rust
 
 ### Skills
@@ -21,3 +21,8 @@ I developed Shopage (shopage.com), a scalable multi-tenant eCommerce SaaS platfo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/chiwai15" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chiwaiyauu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+
+
+
