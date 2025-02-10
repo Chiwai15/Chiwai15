@@ -4,11 +4,11 @@ Nelson
 💻 Software Engineer | Problem Solver 🎯 Focused on SaaS | Backend Architecture | Scalability 🚀 Passionate about learning and contributing
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-I developed Shopage (shopage.com), a scalable multi-tenant eCommerce SaaS platform using Python and Django, building it from the ground up since 2015 as a self-taught engineer. As the business scaled during the pandemic, I transitioned into a technical leadership role, leading the development team, overseeing KPIs, code reviews, and system upgrades. I redesigned the system architecture, APIs, and microservices to handle traffic spikes, ensuring stability while leading crisis resolution efforts for critical bugs and recovery.
+I developed Shopage, a scalable multi-tenant eCommerce SaaS platform using Python and Django, building it from the ground up since 2015 as a self-taught engineer. As the business scaled during the pandemic, I transitioned into a technical leadership role, leading the development team, overseeing KPIs, code reviews, and system upgrades. I redesigned the system architecture, APIs, and microservices to handle traffic spikes, ensuring stability while leading crisis resolution efforts for critical bugs and recovery.
 
-* 🌍  I'm based in Canada
+* 🌍  I'm currently in Canada
 * ✉️  You can contact me at [chiwaiyauu@gmail.com](mailto:chiwaiyau@gmail.com)
-* 🧠  I'm learning ReactJS, Rust
+
 
 ### Skills
 
