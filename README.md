@@ -36,7 +36,7 @@ I developed Shopage, a scalable multi-tenant eCommerce SaaS platform using Pytho
   <a href="https://clickhouse.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/clickhouse.svg" width="40" alt="ClickHouse"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elasticsearch.svg" width="40" alt="Elasticsearch"/></a>
   <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" width="40" alt="DynamoDB"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"_
+  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/></a>
 
 
 #### Cloud & DevOps
