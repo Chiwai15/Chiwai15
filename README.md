@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/51efcaac-d7a5-493d-9cbd-86fd5f6f0940)Nelson
+Nelson Yau
 ===========================
 
 💻 Software Engineer | Problem Solver 🎯 Focused on SaaS | Backend Architecture | Scalability 🚀 Passionate about learning and contributing
