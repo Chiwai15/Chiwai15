@@ -28,7 +28,7 @@ I developed Shopage, a scalable multi-tenant eCommerce SaaS platform using Pytho
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/></a>
 </p>
 
-#### 💾 Databases
+#### Databases
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/></a>
@@ -37,6 +37,30 @@ I developed Shopage, a scalable multi-tenant eCommerce SaaS platform using Pytho
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elasticsearch.svg" width="40" alt="Elasticsearch"/></a>
   <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" width="40" alt="DynamoDB"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"_
+
+
+#### Cloud & DevOps
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/></a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="40" alt="AWS Lambda"/></a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" alt="AWS EC2"/></a>
+  <a href="https://aws.amazon.com/ecs/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Container-Service.svg" width="40" alt="AWS ECS"/></a>
+  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Elastic-Load-Balancing.svg" width="40" alt="AWS ALB"/></a>
+  <a href="https://aws.amazon.com/sqs/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Simple-Queue-Service.svg" width="40" alt="AWS SQS"/></a>
+  <a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" width="40" alt="AWS RDS"/></a>
+  <a href="https://aws.amazon.com/elasticache/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Database/ElastiCache.svg" width="40" alt="AWS ElastiCache"/></a>
+  <a href="https://aws.amazon.com/route53/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="40" alt="AWS Route 53"/></a>
+  <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="40" alt="AWS S3"/></a>
+  <a href="https://aws.amazon.com/cloudfront/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/CloudFront.svg" width="40" alt="AWS CloudFront"/></a>
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" width="40" alt="AWS API Gateway"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/></a>
+  <a href="https://httpd.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="Apache"/></a>
+  <a href="https://www.nginx.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rabbitmq.svg" width="40" alt="RabbitMQ"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka"/></a>
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="CI/CD"/></a>
+</p>
 
 ###
 
