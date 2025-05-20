@@ -1,4 +1,4 @@
-Nelson
+![image](https://github.com/user-attachments/assets/51efcaac-d7a5-493d-9cbd-86fd5f6f0940)Nelson
 ===========================
 
 💻 Software Engineer | Problem Solver 🎯 Focused on SaaS | Backend Architecture | Scalability 🚀 Passionate about learning and contributing
@@ -41,12 +41,11 @@ I developed Shopage, a scalable multi-tenant eCommerce SaaS platform using Pytho
 
 #### Cloud & DevOps
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/></a>
   <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="40" alt="AWS Lambda"/></a>
   <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" alt="AWS EC2"/></a>
-  <a href="https://aws.amazon.com/ecs/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Container-Service.svg" width="40" alt="AWS ECS"/></a>
+  <a href="https://aws.amazon.com/ecs/" target="_blank"><img src="https://github.com/user-attachments/assets/776dd78c-a7a8-4686-9a4a-a120d70064b1" width="40" alt="AWS ECS"/></a>
   <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Elastic-Load-Balancing.svg" width="40" alt="AWS ALB"/></a>
-  <a href="https://aws.amazon.com/sqs/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Simple-Queue-Service.svg" width="40" alt="AWS SQS"/></a>
+  <a href="https://aws.amazon.com/sqs/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" width="40" alt="AWS SQS"/></a>
   <a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" width="40" alt="AWS RDS"/></a>
   <a href="https://aws.amazon.com/elasticache/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Database/ElastiCache.svg" width="40" alt="AWS ElastiCache"/></a>
   <a href="https://aws.amazon.com/route53/" target="_blank"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="40" alt="AWS Route 53"/></a>
